@@ -1,0 +1,1 @@
+Use Hadoop jobs to analyze three different datasets to get the number of photos per location, the top 50 popular places (based on the number of photos per location), the top 10 most popular tags (based on the top 50 Welcome place)
